@@ -76,5 +76,4 @@ int main() {
 	delete varDokter2;
 
 	return 0;
-
 }
